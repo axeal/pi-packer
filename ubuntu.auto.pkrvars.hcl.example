@@ -1,0 +1,15 @@
+username = "ubuntu"
+
+ipv4_gateway = "10.0.0.1"
+
+ipv4_dns_server = "10.0.0.1"
+
+images = {
+  foo = {
+    ipv4_address = "10.0.0.100"
+  }
+  bar = {
+    ipv4_address = "10.0.0.101"
+  }
+}
+
